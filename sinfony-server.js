@@ -1,3 +1,15 @@
+/*!
+ * Sinfony JavaScript Library v0
+ * http://Sinfony.prototype.org
+ *
+ * Copyright 2012, Eduardo Cruz, Fernando Alvarez
+ * Dual licensed under the MIT or GPL Version 2 licenses.
+ * http://Sinfony.prototype.org/license
+ *
+ * Date: Mon Fri 29 21:11:03 2011 -0600
+ */
+
+
 /**
  * Module dependencies.
  */
